@@ -93,11 +93,13 @@ textarea {
    Author's custom styles
    ========================================================================== */
 
-p {
+html {
     font-family: Helvetica-Neue, Arial;
 }
 
-
+div {
+    padding: 5px;
+}
 
 
 
